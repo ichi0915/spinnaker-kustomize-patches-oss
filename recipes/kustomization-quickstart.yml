@@ -30,4 +30,3 @@ patchesStrategicMerge:
   - persistence/patch-redis.yml
   - expose/patch-lb.yml                 # Automatically expose spinnaker
   - accounts/kubernetes/patch-kube.yml  # Kubernetes accounts
-  - accounts/docker/patch-dockerhub.yml # Docker accounts

@@ -1,7 +1,8 @@
 #-----------------------------------------------------------------------------------------------------------------
 # Example configuration for using an external redis instance instead of the one shipped with spinnaker
 #-----------------------------------------------------------------------------------------------------------------
-apiVersion: spinnaker.armory.io/v1alpha2
+# apiVersion: spinnaker.armory.io/v1alpha2
+apiVersion: spinnaker.io/v1alpha2
 kind: SpinnakerService
 metadata:
   name: spinnaker
