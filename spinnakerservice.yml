@@ -9,6 +9,7 @@ spec:
     config:
       version: 1.26.7            # Spinnaker version to deploy
       # version: 1.25.8            # Spinnaker version to deploy
+      # version: 1.25.6            # Spinnaker version to deploy
       # version: 1.24.6            # Spinnaker version to deploy
       # version: 1.23.7            # Spinnaker version to deploy
 #      armory: {}                 # Features only available in Armory Spinnaker distribution.
